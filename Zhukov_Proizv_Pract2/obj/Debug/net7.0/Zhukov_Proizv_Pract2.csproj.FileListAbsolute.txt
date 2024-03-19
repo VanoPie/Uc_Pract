@@ -1,0 +1,482 @@
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Zhukov_Proizv_Pract2
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Zhukov_Proizv_Pract2.deps.json
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Zhukov_Proizv_Pract2.runtimeconfig.json
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Zhukov_Proizv_Pract2.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Zhukov_Proizv_Pract2.pdb
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Base.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Controls.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.DesignerSupport.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Dialogs.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Markup.Xaml.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Markup.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Metal.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.MicroCom.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.OpenGL.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Controls.ColorPicker.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Controls.DataGrid.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Desktop.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Diagnostics.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Fonts.Inter.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.FreeDesktop.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Native.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Remote.Protocol.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Skia.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Themes.Fluent.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Themes.Simple.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Win32.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.X11.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/HarfBuzzSharp.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/MicroCom.Runtime.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/SkiaSharp.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/System.Drawing.Common.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/System.IO.Pipelines.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Tmds.DBus.Protocol.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-arm64/native/av_libglesv2.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x64/native/av_libglesv2.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x86/native/av_libglesv2.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/osx/native/libAvaloniaNative.dylib
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/linux-arm/native/libSkiaSharp.so
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/linux-x64/native/libSkiaSharp.so
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/osx/native/libSkiaSharp.dylib
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x64/native/libSkiaSharp.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x86/native/libSkiaSharp.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Zhukov_Proizv_Pract2.csproj.AssemblyReference.cache
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Avalonia/Resources.Inputs.cache
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Avalonia/resources
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Zhukov_Proizv_Pract2.GeneratedMSBuildEditorConfig.editorconfig
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Zhukov_Proizv_Pract2.AssemblyInfoInputs.cache
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Zhukov_Proizv_Pract2.AssemblyInfo.cs
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Zhukov_Proizv_Pract2.csproj.CoreCompileInputs.cache
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Avalonia/references
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Avalonia/original.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Avalonia/original.pdb
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Avalonia/original.ref.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/refint/Zhukov_Proizv_Pract2.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Zhukov_Proizv_Pract2.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Zhukov_Proizv_Pract2.pdb
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Zhukov_Proizv_Pract2.csproj.CopyComplete
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Zhukov_Proizv_Pract2.genruntimeconfig.cache
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/ref/Zhukov_Proizv_Pract2.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/BouncyCastle.Cryptography.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Google.Protobuf.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/K4os.Compression.LZ4.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/K4os.Compression.LZ4.Streams.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/K4os.Hash.xxHash.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/MySql.Data.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/System.Security.Permissions.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/System.Windows.Extensions.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ZstdSharp.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x64/native/comerr64.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x64/native/gssapi64.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x64/native/k5sprt64.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x64/native/krb5_64.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x64/native/krbcc64.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Zhukov_Proizv_Pract2.exe
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Zhukov_Proizv_Pract2.deps.json
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Zhukov_Proizv_Pract2.runtimeconfig.json
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Zhukov_Proizv_Pract2.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Zhukov_Proizv_Pract2.pdb
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Base.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Controls.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.DesignerSupport.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Dialogs.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Markup.Xaml.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Markup.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Metal.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.MicroCom.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.OpenGL.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Controls.ColorPicker.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Controls.DataGrid.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Desktop.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Diagnostics.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Fonts.Inter.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.FreeDesktop.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Native.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Remote.Protocol.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Skia.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Themes.Fluent.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Themes.Simple.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.Win32.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Avalonia.X11.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/BouncyCastle.Cryptography.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Google.Protobuf.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/HarfBuzzSharp.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/K4os.Compression.LZ4.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/K4os.Hash.xxHash.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/MicroCom.Runtime.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/MySql.Data.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/SkiaSharp.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/System.IO.Pipelines.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Tmds.DBus.Protocol.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ZstdSharp.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-arm64/native/av_libglesv2.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x64/native/av_libglesv2.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x86/native/av_libglesv2.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/osx/native/libAvaloniaNative.dylib
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x64/native/comerr64.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x64/native/gssapi64.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x64/native/k5sprt64.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x64/native/krb5_64.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x64/native/krbcc64.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/linux-arm/native/libSkiaSharp.so
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/linux-arm64/native/libSkiaSharp.so
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/linux-x64/native/libSkiaSharp.so
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/osx/native/libSkiaSharp.dylib
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-arm64/native/libSkiaSharp.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x64/native/libSkiaSharp.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x86/native/libSkiaSharp.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Zhukov_Proizv_Pract2.csproj.AssemblyReference.cache
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Avalonia/Resources.Inputs.cache
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Avalonia/resources
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Zhukov_Proizv_Pract2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Zhukov_Proizv_Pract2.AssemblyInfoInputs.cache
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Zhukov_Proizv_Pract2.AssemblyInfo.cs
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Zhukov_Proizv_Pract2.csproj.CoreCompileInputs.cache
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Avalonia/references
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Avalonia/original.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Avalonia/original.pdb
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Avalonia/original.ref.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/refint/Zhukov_Proizv_Pract2.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Zhukov_Proizv_Pract2.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Zhukov_Proizv_Pract2.pdb
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Zhukov_Proizv_Pract2.csproj.CopyComplete
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Zhukov_Proizv_Pract2.genruntimeconfig.cache
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/ref/Zhukov_Proizv_Pract2.dll
+/home/user/Desktops/Desktop1/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Zhukov_Proizv_Pract2
+/home/user/Desktops/Desktop1/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Zhukov_Proizv_Pract2.dll
+/home/user/Desktops/Desktop1/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/Zhukov_Proizv_Pract2.pdb
+/home/user/Desktops/Desktop1/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Zhukov_Proizv_Pract2.csproj.AssemblyReference.cache
+/home/user/Desktops/Desktop1/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Avalonia/Resources.Inputs.cache
+/home/user/Desktops/Desktop1/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Avalonia/resources
+/home/user/Desktops/Desktop1/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Zhukov_Proizv_Pract2.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Desktops/Desktop1/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Zhukov_Proizv_Pract2.AssemblyInfoInputs.cache
+/home/user/Desktops/Desktop1/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Zhukov_Proizv_Pract2.AssemblyInfo.cs
+/home/user/Desktops/Desktop1/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Zhukov_Proizv_Pract2.csproj.CoreCompileInputs.cache
+/home/user/Desktops/Desktop1/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Avalonia/references
+/home/user/Desktops/Desktop1/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Avalonia/original.dll
+/home/user/Desktops/Desktop1/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Avalonia/original.pdb
+/home/user/Desktops/Desktop1/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Avalonia/original.ref.dll
+/home/user/Desktops/Desktop1/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/refint/Zhukov_Proizv_Pract2.dll
+/home/user/Desktops/Desktop1/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Zhukov_Proizv_Pract2.dll
+/home/user/Desktops/Desktop1/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/obj/Debug/net7.0/Zhukov_Proizv_Pract2.pdb
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ic4dotnet.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ic4dotnet.System.Windows.Media.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x64/native/ic4_dutils_avx2.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x64/native/ic4core.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x64/native/ic4plugin_display_win32_opengl.dll
+C:/Users/VanoP/Desktop/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x64/native/ic4plugin_video_win32_h26x.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ic4dotnet.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/ic4dotnet.System.Windows.Media.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x64/native/ic4_dutils_avx2.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x64/native/ic4core.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x64/native/ic4plugin_display_win32_opengl.dll
+/home/KHPK.RU/student/Рабочий стол/Zhukov_Proizv_Pract2/Zhukov_Proizv_Pract2/bin/Debug/net7.0/runtimes/win-x64/native/ic4plugin_video_win32_h26x.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Zhukov_Proizv_Pract2.exe
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Zhukov_Proizv_Pract2.deps.json
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Zhukov_Proizv_Pract2.runtimeconfig.json
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Zhukov_Proizv_Pract2.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Zhukov_Proizv_Pract2.pdb
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Avalonia.Base.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Avalonia.Controls.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Avalonia.DesignerSupport.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Avalonia.Dialogs.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Avalonia.Markup.Xaml.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Avalonia.Markup.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Avalonia.Metal.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Avalonia.MicroCom.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Avalonia.OpenGL.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Avalonia.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Avalonia.Controls.DataGrid.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Avalonia.Desktop.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Avalonia.Diagnostics.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Avalonia.Fonts.Inter.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Avalonia.FreeDesktop.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Avalonia.Native.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Avalonia.Remote.Protocol.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Avalonia.Skia.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Avalonia.Themes.Fluent.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Avalonia.Themes.Simple.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Avalonia.Win32.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Avalonia.X11.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\HarfBuzzSharp.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\ic4dotnet.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\ic4dotnet.System.Windows.Media.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\MicroCom.Runtime.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\SkiaSharp.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\System.IO.Pipelines.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\Tmds.DBus.Protocol.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\win-x64\native\ic4_dutils_avx2.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\win-x64\native\ic4core.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\win-x64\native\ic4plugin_display_win32_opengl.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\win-x64\native\ic4plugin_video_win32_h26x.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\obj\Debug\net7.0\Zhukov_Proizv_Pract2.csproj.AssemblyReference.cache
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\obj\Debug\net7.0\Avalonia\Resources.Inputs.cache
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\obj\Debug\net7.0\Avalonia\resources
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\obj\Debug\net7.0\Zhukov_Proizv_Pract2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\obj\Debug\net7.0\Zhukov_Proizv_Pract2.AssemblyInfoInputs.cache
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\obj\Debug\net7.0\Zhukov_Proizv_Pract2.AssemblyInfo.cs
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\obj\Debug\net7.0\Zhukov_Proizv_Pract2.csproj.CoreCompileInputs.cache
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\obj\Debug\net7.0\Avalonia\references
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\obj\Debug\net7.0\Avalonia\original.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\obj\Debug\net7.0\Avalonia\original.pdb
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\obj\Debug\net7.0\Avalonia\original.ref.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\obj\Debug\net7.0\refint\Zhukov_Proizv_Pract2.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\obj\Debug\net7.0\Zhukov_Proizv_Pract2.dll
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\obj\Debug\net7.0\Zhukov_Proizv_Pract2.pdb
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\obj\Debug\net7.0\Zhukov_Proizv_Pract2.csproj.CopyComplete
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\obj\Debug\net7.0\Zhukov_Proizv_Pract2.genruntimeconfig.cache
+C:\Users\VanoP\Desktop\Проект\Zhukov_Proizv_Pract2\Zhukov_Proizv_Pract2\obj\Debug\net7.0\ref\Zhukov_Proizv_Pract2.dll

@@ -1,0 +1,55 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="500" d:DesignHeight="450"
+        x:Class="Zhukov_Proizv_Pract2.AddEditForm"
+        Height="450"
+        Width="700"
+        Icon="avares://Zhukov_Proizv_Pract2/Photos/service_logo.ico"
+        WindowStartupLocation="CenterScreen"
+        Title="AddEditForm">
+    <Grid>
+        <StackPanel Orientation="Horizontal">
+            <TextBox Name="ID" x:CompileBindings="False" Text="{Binding ID_услуги}" IsVisible="False" Width="0" Height="0" IsReadOnly="True"></TextBox>
+        </StackPanel>
+        <UniformGrid Columns="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Name="Zag" Margin = "0 10 0 0" FontSize = "20" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center">Действия с данными</TextBlock>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Margin = "0 25 0 0">Название услуги: </TextBlock>
+                <TextBox Name="Name" x:CompileBindings="False" Text="{Binding Название_услуги}" Width="250" Height="5" Margin = "85 0 0 0" Watermark="Оказываемая услуга"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Margin = "0 25 0 0">Цена услуги: </TextBlock>
+                <TextBox Name="Price" x:CompileBindings="False" Text="{Binding Цена_услуги}" Width="250" Height="5" Margin = "117 0 0 0" Watermark="Цена без скидки"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Margin = "0 25 0 0">Продолжительность услуги: </TextBlock>
+                <TextBox Name="Long" x:CompileBindings="False" Text="{Binding Продолжительность_услуги}" Width="250" Height="5" Margin = "10 0 0 0" Watermark="Время выполнения услуги"></TextBox>
+                <ComboBox Name="TimeComboBox" 
+                          x:CompileBindings="False"
+                          Width="150" Margin ="10 16 0 0">
+                    <ComboBox.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding }" TextAlignment="Center"></TextBlock>
+                        </DataTemplate>
+                    </ComboBox.ItemTemplate>
+                </ComboBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Margin = "0 25 0 0">Название изображения: </TextBlock>
+                <TextBox Name="Img" x:CompileBindings="False" Text="{Binding Изображение_услуги_путь}" Width="250" Height="5" Margin = "40 0 0 0" Watermark="Используемое изображение"></TextBox>
+            <Button Name="SelectFile" Content="Выбрать файл" Margin = "10 0 0 0" Click="File_Select"></Button>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Margin = "0 25 0 0">Размер скидки: </TextBlock>
+                <TextBox Name="Discount" x:CompileBindings="False" Text="{Binding Размер_скидки}" Width="250" Height="5" Margin = "100 0 0 0" Watermark="Скидка на проведение услуги"></TextBox>
+            </StackPanel>
+            
+            <StackPanel Orientation="Horizontal">
+                <Button Name="Save" Content="Сохранить" Margin = "0 15 0 20" Click="Save_OnClick"></Button>
+                <Button Name="Back" Content="Назад" Click="GoBack"  Margin = "305 15 0 20"></Button>
+            </StackPanel>
+        </UniformGrid>
+    </Grid>
+</Window>
